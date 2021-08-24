@@ -1,0 +1,27 @@
+h1,h2{
+color: darkmagenta;
+}
+header{
+
+    background-color: honeydew;
+    text-align: center;
+}
+
+.Project{
+background-color: khaki;
+
+}
+
+
+
+.Work-experience{
+    background-color: skyblue;
+}
+
+.Education{
+    background-color: tomato;
+}
+
+footer{
+    background-color: turquoise;
+}
