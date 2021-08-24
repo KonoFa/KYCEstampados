@@ -5,10 +5,12 @@ header{
 
     background-color: honeydew;
     text-align: center;
+    padding: 20px;
 }
 
 .Project{
 background-color: khaki;
+padding: 20px;
 
 }
 
@@ -16,12 +18,20 @@ background-color: khaki;
 
 .Work-experience{
     background-color: skyblue;
+    padding: 20px;
 }
 
 .Education{
     background-color: tomato;
+    padding: 20px;
 }
 
 footer{
     background-color: turquoise;
+    padding: 20px;
+    
+
+}
+footer li{
+    list-style: none;
 }
