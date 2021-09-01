@@ -1,0 +1,141 @@
+header{
+margin-block-end: -1.8%;
+
+}
+.navbar {
+    background-color: #1A083D;
+    width: 100%;  
+   
+}
+
+
+.container-fluid{
+margin-left: -45%;
+
+}
+
+
+.navbar-header a{
+   font-size: large;
+   font-weight:bolder;
+   color:rgb(185, 89, 233) !important;
+  
+}
+
+.nav{   
+    display: inline-block;   
+  
+}
+
+a {
+    text-decoration: none;
+    color: #6D8AC7;
+    
+}
+
+
+
+
+/*
+.img h1 {
+    margin-left: 5%;
+    margin-top: -3.5%;
+    color: #89ADFA;
+}
+
+ .list {
+    margin-left: 50%;
+    margin-top: -3.3%;
+    font-size: larger;
+}
+
+
+.fixed {
+    position: fixed;
+} 
+
+li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 3%;
+    margin-right: 2%;
+} */
+
+.content{
+
+background-color: #352C7A;
+
+}
+
+
+#myCarousel {
+    width: 100%;
+
+  
+}
+
+.carousel-inner {
+    margin: 25px auto 0;
+    padding-bottom: 22.72%;
+    height: 0 !important;
+    width: auto !important;
+    overflow: hidden;
+}
+
+.carousel-inner img {
+    margin: auto;
+    
+  }
+
+.container {
+    margin-top: 2.5%;
+    margin-left: 16%;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.card1 {
+   
+    padding: 0.5%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.card2 {
+  
+    padding: 0.5%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.card3 {
+   
+    padding: 0.5%;
+    display: inline-block;
+    margin-left: 10%;
+}
+
+
+
+
+footer {
+    background-color: #D5E1FB;
+    padding: 20px;
+    margin-top: 5%;
+}
+
+footer ul {
+    list-style: none;
+    text-align: center;
+}
+
+footer ul li {
+    display: inline-block;
+    text-decoration: none;
+    padding-inline-end: 5%;
+}
+
+h4 {
+    text-align: center;
+}

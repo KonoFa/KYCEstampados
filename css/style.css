@@ -1,11 +1,25 @@
 h1,h2{
 color: darkmagenta;
+text-align: center;
 }
+
 header{
 
-    background-color: honeydew;
-    text-align: center;
-    padding: 20px;
+    background-color: honeydew;   
+    padding: 20px;    
+}
+
+header .fixed{
+position: fixed;
+
+}
+
+
+
+header li{
+    list-style: none;
+    text-decoration: none;
+
 }
 
 .Project{
@@ -32,6 +46,20 @@ footer{
     
 
 }
-footer li{
+
+footer ul {
     list-style: none;
+    text-align: center;
+     
+    
+}
+footer ul li {
+    display: inline-block;
+    text-decoration: none;
+    padding-inline-end: 5%; 
+}
+footer ul li a{
+    color: cadetblue;
+    text-decoration: none;  
+   
 }
